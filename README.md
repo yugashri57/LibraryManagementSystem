@@ -38,9 +38,6 @@ OUTPUT:
 
 
 
-<img width="1585" height="251" alt="Screenshot 2026-02-11 112930" src="https://github.com/user-attachments/assets/d53a8892-e1be-4ce4-8867-ca75b361d2f2" />
-
-
 
 PROJECT STRUCTURE:
 
